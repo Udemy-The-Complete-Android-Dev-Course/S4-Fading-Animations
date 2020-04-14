@@ -23,7 +23,7 @@
         android:id="@+id/yellow"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:alpha="0"
+        android:alpha="1"
         android:onClick="animate"
         android:scaleType="center"
         app:layout_constraintBottom_toBottomOf="parent"
